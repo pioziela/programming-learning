@@ -1,2 +1,0 @@
-# programming-learning
-HackerRank Problems
